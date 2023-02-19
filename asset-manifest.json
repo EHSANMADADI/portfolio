@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portofilo/static/css/main.70feb8c7.css",
+    "main.js": "/portofilo/static/js/main.1e2c1fb2.js",
+    "static/media/1102007.jpg": "/portofilo/static/media/1102007.7b60192f05557269f87b.jpg",
+    "static/media/tech-statement.jpg": "/portofilo/static/media/tech-statement.5ce0040237decf5bbf0f.jpg",
+    "static/media/3949076.jpg": "/portofilo/static/media/3949076.673ad67bafdab7369788.jpg",
+    "static/media/32819.jpg": "/portofilo/static/media/32819.b1a7e60e41d48f57a90f.jpg",
+    "static/media/computer-keyboards-wallpaper-preview.jpg": "/portofilo/static/media/computer-keyboards-wallpaper-preview.eea9dead15f241f1b359.jpg",
+    "index.html": "/portofilo/index.html",
+    "main.70feb8c7.css.map": "/portofilo/static/css/main.70feb8c7.css.map",
+    "main.1e2c1fb2.js.map": "/portofilo/static/js/main.1e2c1fb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70feb8c7.css",
+    "static/js/main.1e2c1fb2.js"
+  ]
+}
