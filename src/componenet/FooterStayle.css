@@ -1,0 +1,59 @@
+.footerPhone{
+     color : #fff;
+     margin-left: 1rem;
+     cursor: pointer;
+     transition: 1s;
+}
+.footerPhone:hover{
+    color :yellow
+}
+.footerMail{
+     color: #fff;
+     margin-left: 1rem;
+     cursor: pointer;
+     transition: 1s;
+
+}
+.footerMail:hover{
+     color:red;
+}
+.HomeIcon{
+     margin-right: 1rem;
+     margin-left: 1rem;
+}
+.h-w{
+     color: #fff;
+     display: inline-block;
+}
+.Footer-container{
+     justify-content:space-between;
+}
+
+.linkedin :hover{
+     transition: 1s;
+     cursor: pointer;
+     color:blue;
+}
+.twitter :hover{
+     color:rgb(53, 166, 211);
+     transition: 1s;
+     cursor: pointer;
+}
+.facbook :hover{
+     color:blue;
+     transition: 1s;
+     cursor: pointer;
+}
+@media screen and (max-width: 768px){
+  .Footer-container{
+     flex-direction: column;
+  }
+  .Footer-right{
+     margin-top: 0.8rem;
+     margin-left: 1rem;
+  }
+}
+
+.Footer{
+     padding-top: 2rem;
+}

@@ -1,0 +1,31 @@
+.content{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     margin: 1rem 1rem;
+     max-width: 400px;
+}
+
+.text{
+     text-align: center;
+}
+
+.About{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.imgs{
+     width: 50%;
+     display: relative;
+    
+}
+.img1{
+     width: 40%;
+     z-index: 4;
+}
+.img2{
+    z-index: 5;
+     width: 40%;
+}

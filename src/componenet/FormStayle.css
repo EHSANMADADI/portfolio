@@ -1,0 +1,35 @@
+.in-N{
+     width: 40%;
+     height: 40px;
+     padding:5px;
+
+}
+.in-e{
+     width: 40%;
+     height: 40px;
+     padding:5px;
+
+}
+.in-s{
+     width: 70%;
+     height: 40px;
+     padding:5px;
+
+}
+
+textarea{
+     width: 40%;
+     height: 90px;
+     padding:5px; 
+
+}
+form{
+     width: 100%;
+}
+
+.contact-form{
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}

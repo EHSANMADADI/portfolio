@@ -1,0 +1,14 @@
+.box{
+     justify-content: space-between;
+}
+.bg-card{
+     background-color: rgb(27, 27, 27);
+}
+@media screen and (min-width: 768px) {
+     .cards{
+          flex-wrap: wrap;
+          margin-top: 1.5rem;
+          margin-bottom: 3.5rem;
+
+     }
+}

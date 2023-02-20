@@ -1,0 +1,72 @@
+.btn{
+     padding: 0.5rem 2rem;
+     color: #000 !important;
+     background-color: rgb(235, 255, 11);
+     border: 2px solid white;
+     margin-right: 0.5rem;
+}
+.btn :hover{
+     background-color:transparent;
+     
+}
+.btnbox{
+     display: flex;
+     justify-content: center;
+}
+
+.btn-lith{
+     padding: 0.5rem 2rem;
+     background-color: transparent;
+     border: 2px dashed white;
+     margin-left: 0.5rem;
+}
+.btn-lith:hover{
+     border: 1px solid white;
+}
+
+.mask{
+     width: 100%;
+     height: 100vh;
+     position: relative;
+}
+.mask::after{
+     content: "";
+     width: 100%;
+     height: 100%;
+     top: 0;
+     left: 0;
+     position: absolute;
+     background-color:#000;
+     opacity: 0.7;
+
+}
+.introImg{
+     width: 100%;
+     height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+
+.hiro{
+     width: 100%;
+     height: 100%;
+}
+
+.hiro .content{
+     position:absolute;
+     top: 50%;
+     left: 50%;
+     align-items: center;
+     text-align: center;
+     transform: translate(-50%,-50%);
+}
+.hiro .content h1{
+     font-size: 4rem !important;
+     margin-bottom: 2rem;
+}
+.hiro .content p{
+     font-weight: 200;
+     font-size: 2rem !important;
+     text-transform: uppercase
+}
